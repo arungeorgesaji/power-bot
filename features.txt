@@ -1,0 +1,12 @@
+help
+ping
+remind 
+basic filters 
+warning system 
+logging
+ask
+summarize
+translate
+roll
+quote
+poll question
